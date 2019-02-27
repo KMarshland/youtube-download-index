@@ -4,5 +4,9 @@
   "main": "main.js",
   "repository": "https://github.com/KMarshland/youtube-download-index",
   "author": "Kai Marshland <kaimarshland@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "youtube-dl": "^1.12.2"
+  }
 }
